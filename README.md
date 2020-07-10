@@ -12,7 +12,7 @@ Crie um um projeto utilizando React ou JavaScript puro e a API pública do [Stud
 
 ### Diferencial
 
-- A tela de detalhes apresentar uma lista de todos os personagens do respectivo filme;
+- A tela de detalhes deverá apresentar uma lista de todos os personagens do respectivo filme;
 - Hospedar o projeto no Netlify ou Vercel;
 
 ## 🔧 Restrições técnicas

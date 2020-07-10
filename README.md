@@ -1,6 +1,6 @@
 # Desafio Técnico - Front-end 🐶
 
-> 📢   Abaixo as instruções para nosso desafio técnico no processo seletivo para vaga de Desenvolvedor Front-end:
+> Abaixo as instruções para nosso desafio técnico no processo seletivo para vaga de Desenvolvedor Front-end:
 
 Crie um um projeto utilizando React ou JavaScript puro e a API pública do [Studio Ghibli](https://ghibliapi.herokuapp.com/#) seguindo as seguintes especificações:
 

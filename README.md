@@ -2,7 +2,7 @@
 
 > Abaixo as instruções para nosso desafio técnico no processo seletivo para vaga de Desenvolvedor Front-end:
 
-Crie um um projeto utilizando React ou JavaScript puro e a API pública do [Studio Ghibli](https://ghibliapi.herokuapp.com/#) seguindo as seguintes especificações:
+Crie um um projeto utilizando React ou JavaScript puro e a API pública do [Studio Ghibli](https://ghibliapi.herokuapp.com/#) seguindo as especificações abaixo:
 
 ## 📋  Funcionalidades esperadas
 
@@ -14,7 +14,8 @@ Crie um um projeto utilizando React ou JavaScript puro e a API pública do [Stud
 
 - A tela de detalhes deverá apresentar uma lista de todos os personagens do respectivo filme;
 - Não utilizar nenhuma biblioteca ou framework CSS;
-- Hospedar o projeto no Netlify ou Vercel.
+- Hospedar o projeto no Netlify ou Vercel;
+- Layout bem estruturado, com atenção à experiência do usuário.
 
 ## 🔧 Restrições técnicas
 

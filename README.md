@@ -1,4 +1,4 @@
-# Desafio Técnico | Desenvolvimento Front-end 🐶
+# Desafio Técnico | Desenvolvimento Front-end Pleno 🐶
 
 > Abaixo as instruções para nosso desafio técnico no processo seletivo para vaga de Desenvolvedor Front-end:
 
